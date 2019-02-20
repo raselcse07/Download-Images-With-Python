@@ -36,8 +36,10 @@ Before runnig this script make sure you have installed python3.6, pip and virtua
     
 # Update Images URL
     
-    You need to change the images URL in Testcase Folder. Open the Testcase folder (Download-Images-With-Python/Testcase).       You will see three files (images.txt, images2.txt, images3.txt). These are the test URLs. 
-    Every files contain image URLs,     one per line.Just remove these URLs & add your desired URLs. 
+    You need to change the images URL in Testcase Folder. Open the Testcase 
+    folder (Download-Images-With-Python/Testcase).You will see three files 
+    (images.txt, images2.txt, images3.txt). These are the test URLs. 
+    Every files contain image URLs,one per line.Just remove these URLs & add your desired URLs. 
     
     *** If you want one single file that contains all URLs, then modify the 
     test_download_images.py file. Open the file test_download_images.py. 
