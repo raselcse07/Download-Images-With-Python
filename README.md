@@ -20,8 +20,8 @@ Before runnig this script make sure you have installed python3.6, pip and virtua
     1. Open the terminal(Linux/OSX). For windows you can use Poweshell. You can download Poweshell from
     https://github.com/PowerShell/PowerShell. You can also use cmd.
     
-    N.B. If you want to run this script with Python IDLE, then skip this guideline, just download the source code & run the
-    file test_download_images.py . Make sure all dependencies are installed.
+    N.B. If you want to run this script with Python IDLE, then skip this guideline, just download the
+    source code & run the file test_download_images.py . Make sure all dependencies are installed.
     
     2. Write the following commands - 
         
