@@ -34,7 +34,7 @@ def get_image_ext(filepath):
 
 
 def downloader(image_url):
-	# Generate random numbers from 1 to 10000
+    # Generate random numbers from 1 to 10000
     randnumber = random.randrange(1,10000)
 
     # Get the images extention
